@@ -103,8 +103,27 @@ int main() {
 ## Build Result
 
 
-![Debug](images/debug.png)
-![Build Success](images/result.png)
+## Program Output
+
+<table align="center">
+<tr>
+<th>Debug Console</th>
+</tr>
+<tr>
+<td align="center">
+<img src="images/debug.png" width="900">
+</td>
+</tr>
+
+<tr>
+<th>Build Result</th>
+</tr>
+<tr>
+<td align="center">
+<img src="images/result.png" width="900">
+</td>
+</tr>
+</table>
 **Expected Output:**
 
 ```text
