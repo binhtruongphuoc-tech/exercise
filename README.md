@@ -100,6 +100,12 @@ int main() {
     return 0;
 }
 ```
+## Build Result
+## Build Result
+## Build Result
+
+![Debug](images/debug.png)
+![Build Success](images/result.png)
 **Expected Output:**
 
 ```text
