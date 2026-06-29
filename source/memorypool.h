@@ -10,4 +10,4 @@ void pool_init();
 void* pool_alloc();
 void pool_free(void* ptr);
 
-#endif // MEMORYPOOL_H#pragma once
+#endif 
