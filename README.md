@@ -2,8 +2,7 @@ This repository provides standard C implementations of essential embedded softwa
 Each module is paired with a dedicated suite of unit tests to ensure robust, leak-free, and reliable performance.
 It serves as a highly practical foundation for developers looking to master low-level memory management and firmware testing.
 ## Unit test result: main.c
-Dưới đây là hàm main chạy toàn bộ Unit Test:
-
+Below is the main function that runs all the unit tests:
 ```c
 #include <stdio.h>
 #include <assert.h>
